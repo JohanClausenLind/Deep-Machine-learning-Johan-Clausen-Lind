@@ -1,12 +1,12 @@
 # Week 20 - Resources
 
-[:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
+[:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Video guides :video_camera:
 - [Transformers - Phi M (2020) youtube](https://www.youtube.com/watch?v=4Bdc55j80l8)
 
 ## Lecture notes :book:
-- [Transformers](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec8-Transformers.ipynb)
+- [Transformers](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec8-Transformers.ipynb)
 
 ## Theory :book:
 - [K, Q, V in attention - CrossValidated forum discussions](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)

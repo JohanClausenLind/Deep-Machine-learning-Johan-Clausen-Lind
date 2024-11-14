@@ -1,17 +1,16 @@
 # Week 18 - Resources
 
-[:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
+[:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Video guides :video_camera:
 
 
 ## Lecture notes :book:
-- [Transfer learning CNN](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec5-Transfer_learning_CNN.ipynb)
+- [Transfer learning CNN](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec5-Transfer_learning_CNN.ipynb)
 
 ## Theory :book:
 - [Transfer learning wikipedia](https://en.wikipedia.org/wiki/Transfer_learning)
 - [Transfer learning on tf_flower - Nutan (2021) medium](https://medium.com/@nutanbhogendrasharma/tensorflow-image-classification-with-tf-flowers-dataset-e36205deb8fc)
-- [Know Your Data](https://knowyourdata-tfds.withgoogle.com/#dataset=tf_flowers&tab=DATASETS)
 - [tf_flowers dataset - TensorFlow](https://www.tensorflow.org/datasets/catalog/tf_flowers)
 - [TensorSpec object - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/TensorSpec?version=nightly)
 - [ImageDataGenerator - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator?version=nightly)

@@ -1,4 +1,4 @@
-# Deep learning - AI21
+# Deep learning - AI23
 
 This is a course with focus of learning concepts in deep learning both theory and practice using primarily **Keras** in TensorFlow, but other tools will also be used. This course will build upon prior skills in:
 
@@ -10,7 +10,7 @@ This is a course with focus of learning concepts in deep learning both theory an
 
 All lecture codes and exercises can be found in the course [Github repo][ghr].
 
-[ghr]: https://github.com/kokchun/Deep-learning-AI21
+[ghr]: https://github.com/pr0fez/AI23-Deep_learning
 
 ## Schedule
 
@@ -18,21 +18,21 @@ Week 16 will focus on basic , week 17-18 on computer vision and convolutional ne
 
 |   Week   | Content                                                                               |
 | :------: | ------------------------------------------------------------------------------------- |
-| [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout       |
-| [17][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, lab |
-| [18][w3] | Transfer learning, lab                                                                |
-| [19][w4] | RNN, LSTM, time series forecasting, text preprocessing, project intro, lab            |
-| [20][w5] | Transformers, project                                                                 |
+| [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout , Assignment 1 (Image classification)  |
+| [17][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, Assignment 1 (Image classification) |
+| [18][w3] | Transfer learning, Reinforcement learning, Assignment 2 (Atari 2600 Pacman)                                                                |
+| [19][w4] | RNN, LSTM, time series forecasting, text preprocessing, project intro, Assignment 2 (Atari 2600 Pacman)            |
+| [20][w5] | Transformers, Generative Approaches, LLM, Text-to-Image Project                                                                 |
 | [21][w6] | Project                                                                               |
-| [22][w7] | Project seminar, GAN intro, Reinforcement learning intro                              |
+| [22][w7] | Project seminar                              |
 
-[w1]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week1.md
-[w2]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week2.md
-[w3]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week3.md
-[w4]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week4.md
-[w5]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week5.md
-[w6]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week6.md
-[w7]: https://github.com/kokchun/Deep-learning-AI21/blob/main/Resources/week7.md
+[w1]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week1.md
+[w2]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week2.md
+[w3]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week3.md
+[w4]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week4.md
+[w5]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week5.md
+[w6]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week6.md
+[w7]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week7.md
 
 ## Resources
 

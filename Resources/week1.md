@@ -1,15 +1,14 @@
 # Week 16 - Resources
 
-[:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
+[:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Setup :wrench:
 
 1. Create a new folder for this course
 2. Create a new pipenvironment with
-   ```python
-   pipenv shell
+   ```python -m venv .venv
    ```
-3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, **tensorflow** to this pipenv
+3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, **tensorflow** to this venv
 
 When training the network, we will use Kaggles jupyter notebooks, which gives ca 30h of GPU time each week.
 
@@ -19,8 +18,6 @@ Optional local installation for GPU support if your computer has an Nvidia GPU:
 
 ## Video guides :video_camera:
 
-- [Backpropagation part 1 - Andrew Ng](https://www.youtube.com/watch?v=x_Eamf8MHwU)
-- [Backpropagataion part 2 (intuition) - Andrew Ng](https://www.youtube.com/watch?v=mOmkv5SI9hU)
 - [Backpropagation - 3Blue1Brown](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3)
 - [Backpropagation calculus - 3Blue1Brown](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
 - [How many hidden layers and nodes? - DigitalSreeni](https://www.youtube.com/watch?v=bqBRET7tbiQ)
@@ -32,9 +29,9 @@ Improving on gradient descent
 - [Adam optimization algorithm - Andrew Ng](https://www.youtube.com/watch?v=JXQT_vxqwIs)
 
 ## Lecture notes :book:
-- [MLP for regression](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec0-MLP_regression.ipynb)
-- [MLP for classification](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec0.1-MLP_classification.ipynb)
-- [MLP for image classification](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec1-MLP_image_classification.ipynb)
+- [MLP for regression](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec0-MLP_regression.ipynb)
+- [MLP for classification](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec0.1-MLP_classification.ipynb)
+- [MLP for image classification](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec1-MLP_image_classification.ipynb)
 
 ## Theory :book:
 
@@ -78,5 +75,5 @@ Mathematical prerequisite:
 - [Partiell derivata - wikipedia svenska](https://sv.wikipedia.org/wiki/Partiell_derivata)
 
 ## Exercises :running:
-- [MLP exercises](https://github.com/kokchun/Deep-learning-AI21/blob/main/Exercises/E0-MLP.ipynb)
-- [MLP image classification exercises](https://github.com/kokchun/Deep-learning-AI21/blob/main/Exercises/E1-MLP_image_classification.ipynb)
+- [MLP exercises](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Exercises/E0-MLP.ipynb)
+- [MLP image classification exercises](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Exercises/E1-MLP_image_classification.ipynb)

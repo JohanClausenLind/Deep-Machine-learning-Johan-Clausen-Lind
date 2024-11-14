@@ -1,6 +1,6 @@
 # Week 22 - Resources
 
-[:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
+[:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Video guides :video_camera:
 See previous weeks

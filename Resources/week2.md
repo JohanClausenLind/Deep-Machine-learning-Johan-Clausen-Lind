@@ -1,6 +1,6 @@
 # Week 17 - Resources
 
-[:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
+[:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Kaggle setup
 In Kaggle, you can work with public datasets as well as your private datasets, and you can enable GPU and TPU for certain amount of weekly hours quota, which Kaggle provides for you for free. To use Kaggle with own dataset do the following:
@@ -16,9 +16,9 @@ Note that a Kaggle session is limited to around 6 hours, and is also dependant o
 
 
 ## Lecture notes :book:
-- [Image kernels and file handling](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec2.0-Image_kernels.ipynb)
-- [CNN intro](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec3-CNN_intro.ipynb)
-- [Data augmentation](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec4-Data_augmentation.ipynb)
+- [Image kernels and file handling](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec2.0-Image_kernels.ipynb)
+- [CNN intro](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec3-CNN_intro.ipynb)
+- [Data augmentation](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec4-Data_augmentation.ipynb)
 
 ## Theory :book:
 

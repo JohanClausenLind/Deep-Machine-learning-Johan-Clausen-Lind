@@ -1,12 +1,12 @@
 # Week 19 - Resources
 
-[:house: Main page](https://github.com/kokchun/Deep-learning-AI21)
+[:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Video guides :video_camera:
 
 
 ## Lecture notes :book:
-- [RNN](https://github.com/kokchun/Deep-learning-AI21/blob/main/Lectures/Lec6-RNN.ipynb)
+- [RNN](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec6-RNN.ipynb)
 
 ## Theory :book:
 

@@ -18,13 +18,13 @@ Week 16 will focus on basic , week 17-18 on computer vision and convolutional ne
 
 |   Week   | Content                                                                               |
 | :------: | ------------------------------------------------------------------------------------- |
-| [16][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout , Assignment 1 (Image classification)  |
-| [17][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, Assignment 1 (Image classification) |
-| [18][w3] | Transfer learning, Reinforcement learning, Assignment 2 (Atari 2600 Pacman)                                                                |
-| [19][w4] | RNN, LSTM, time series forecasting, text preprocessing, project intro, Assignment 2 (Atari 2600 Pacman)            |
-| [20][w5] | Transformers, Generative Approaches, LLM, Text-to-Image Project                                                                 |
-| [21][w6] | Project                                                                               |
-| [22][w7] | Project seminar                              |
+| [][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout , Assignment 1 (Image classification)  |
+| [][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, Assignment 1 (Image classification) |
+| [][w3] | Transfer learning, Reinforcement learning, Assignment 2 (Atari 2600 Pacman)                                                                |
+| [][w4] | RNN, LSTM, time series forecasting, text preprocessing, project intro, Assignment 2 (Atari 2600 Pacman)            |
+| [][w5] | Transformers, Generative Approaches, LLM, Text-to-Image Project                                                                 |
+| [][w6] | Project                                                                               |
+| [][w7] | Project seminar                              |
 
 [w1]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week1.md
 [w2]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week2.md

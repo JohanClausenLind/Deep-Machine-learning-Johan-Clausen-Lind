@@ -1,4 +1,4 @@
-# Week 18 - Resources
+# Week 3 - Resources
 
 [:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 

@@ -1,4 +1,4 @@
-# Week 21 - Resources
+# Week 6 - Resources
 
 [:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 

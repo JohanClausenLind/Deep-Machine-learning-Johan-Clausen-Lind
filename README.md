@@ -16,7 +16,7 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 |   Week   | Content                                                                               |
 | :------: | ------------------------------------------------------------------------------------- |
-| [][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout , Assignment 1 (Image classification)  |
+| [][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout   |
 | [][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, Assignment 1 (Image classification) |
 | [][w3] | Transfer learning, Reinforcement learning, Assignment 2 (Atari 2600 Pacman)                                                                |
 | [][w4] | RNN, LSTM, time series forecasting, text preprocessing, Assignment 2 (Atari 2600 Pacman), Project Intro            |

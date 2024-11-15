@@ -22,7 +22,7 @@ Week 16 will focus on basic , week 17-18 on computer vision and convolutional ne
 | [][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation, Assignment 1 (Image classification) |
 | [][w3] | Transfer learning, Reinforcement learning, Assignment 2 (Atari 2600 Pacman)                                                                |
 | [][w4] | RNN, LSTM, time series forecasting, text preprocessing, project intro, Assignment 2 (Atari 2600 Pacman)            |
-| [][w5] | Transformers, Generative Approaches, LLM, Text-to-Image Project                                                                 |
+| [][w5] | Transformers, Generative Approaches, LLM, Text-to-Image Synthesis, Project Intro                                                                 |
 | [][w6] | Project                                                                               |
 | [][w7] | Project seminar                              |
 

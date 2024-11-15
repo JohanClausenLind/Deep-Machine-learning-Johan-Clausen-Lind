@@ -1,6 +1,6 @@
 # Schema - Deep learning (AI23)
 
-| Vecka |     Måndag (distans)      |          Onsdag           |          Torsdag          |
+| Vecka |     Måndag       |          Onsdag           |          Fredag (distans)          |
 | :---: | :-----------------------: | :-----------------------: | :-----------------------: |
 |  |  | | |
 |  |  | | |

@@ -14,8 +14,6 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 ## Schedule
 
-Week 16 will focus on basic , week 17-18 on computer vision and convolutional neural networks. Week 19-21 will focus on NLP, starting with RNN, LSTM, Autoencoder to state-of-the-art transformers.
-
 |   Week   | Content                                                                               |
 | :------: | ------------------------------------------------------------------------------------- |
 | [][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout , Assignment 1 (Image classification)  |

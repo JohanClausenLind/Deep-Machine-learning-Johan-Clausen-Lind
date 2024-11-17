@@ -16,12 +16,12 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 
 |   Week   | Content                                                                               |
 | :------: | ------------------------------------------------------------------------------------- |
-| [][w1] | Inspiration, Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout   |
+| [][w1] | Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout   |
 | [][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation |
 | [][w3] | Transfer learning, Reinforcement learning, Assignment (Atari 2600 Pacman)                                                                |
 | [][w4] | RNN, LSTM, time series forecasting, text preprocessing, Assignment (Atari 2600 Pacman), Project Intro            |
-| [][w5] | Transformers, Generative Approaches, LLM, Text-to-Image Synthesis, Project                                                                 |
-| [][w6] | Project                                                                               |
+| [][w5] | Transformers, Generative Approaches, LLM, Fine-Tuning, Project |
+| [][w6] | Text-to-Image Synthesis, Project |
 | [][w7] | Project seminar                              |
 
 [w1]: https://github.com/pr0fez/AI23-Deep_learning/blob/main/Resources/week1.md

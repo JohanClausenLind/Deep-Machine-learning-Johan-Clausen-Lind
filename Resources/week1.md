@@ -6,7 +6,8 @@
 
 1. Create a new folder for this course
 2. Create a new pipenvironment with
-   ```python -m venv .venv
+   ```
+   python -m venv .venv
    ```
 3. Install **numpy**, **pandas**, **matplotlib**, **seaborn**, **ipykernel**, **scikit-learn**, **tensorflow** to this venv
 

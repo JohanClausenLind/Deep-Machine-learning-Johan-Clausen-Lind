@@ -54,5 +54,4 @@ Keras
 - [Xception - Chollet (2017)](https://arxiv.org/pdf/1610.02357.pdf)
 
 ## Exercises :running:
-Work with the lab.
-
+- [CNN exercises](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Exercises/E2-CNN.ipynb)

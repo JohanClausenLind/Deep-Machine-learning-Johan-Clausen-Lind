@@ -18,9 +18,9 @@ All lecture codes and exercises can be found in the course [Github repo][ghr].
 | :------: | ------------------------------------------------------------------------------------- |
 | [][w1] | Keras, MLP, Backpropagation, Kaggle setup, early stopping, dropout   |
 | [][w2] | Image processing, CNN, regularizations, hyperparameter tuning, data augmentation |
-| [][w3] | Transfer learning, Reinforcement learning, Assignment (Atari 2600 Pacman)                                                                |
-| [][w4] | RNN, LSTM, time series forecasting, text preprocessing, Assignment (Atari 2600 Pacman), Project Intro            |
-| [][w5] | Transformers, Generative Approaches, LLM, Fine-Tuning, Project |
+| [][w3] | Transfer learning and Fine-Tuning, Reinforcement learning, Assignment (Atari 2600 Pacman)                                                                |
+| [][w4] | Transformers, Generative Approaches, LLM, , Assignment (Atari 2600 Pacman), Project Intro            |
+| [][w5] | RNN, LSTM, time series forecasting, Project |
 | [][w6] | Text-to-Image Synthesis, Project |
 | [][w7] | Project seminar                              |
 

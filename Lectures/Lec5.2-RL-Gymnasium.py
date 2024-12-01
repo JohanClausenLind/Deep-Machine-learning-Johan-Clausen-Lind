@@ -172,6 +172,7 @@ while True:
             model_target.set_weights(model.get_weights())
             # Log details
             print(f"best score of last 100: {np.max(episode_reward_history)}, running reward: {running_reward:.2f} at episode {episode_count}, frame count {frame_count}")
+            model.save("breakout_qmodel_{episode_count}.keras")
 
         # Limit the state and reward history
         if len(rewards_history) > max_memory_length:
@@ -203,5 +204,3 @@ while True:
         break
     if (max_frames <= frame_count):
         print(f"Stopped at frame {frame_count}!")
-
-model.save("breakout_qmodel.keras")

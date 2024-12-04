@@ -1,30 +1,41 @@
-# Week 5 - Resources
+# Week 4 - Resources
 
 [:house: Main page](https://github.com/pr0fez/AI23-Deep_learning)
 
 ## Video guides :video_camera:
-- [Transformers - Phi M (2020) youtube](https://www.youtube.com/watch?v=4Bdc55j80l8)
+
 
 ## Lecture notes :book:
-- [Transformers](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec8-Transformers.ipynb)
+- [RNN](https://github.com/pr0fez/AI23-Deep_learning/blob/main/Lectures/Lec6-RNN.ipynb)
 
 ## Theory :book:
-- [K, Q, V in attention - CrossValidated forum discussions](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
-- [Positional encoding in Transformers - Brownlee (2022) machinelearningmastery blog post](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
-- [Positional encoding - Kazemnejad (2019) blog post](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
-- [spaCy](https://spacy.io/usage/models)
-- [Hugging Face](https://huggingface.co/)
-- [swedish-gpt - birgermoell Hugging Face](https://huggingface.co/birgermoell/swedish-gpt?text=grattis+p%C3%A5+f%C3%B6delsedagen)
-- [GPT-2 - OpenAI team Hugging Face](https://huggingface.co/gpt2)
-language_models_are_unsupervised_multitask_learners.pdf)
-- [GPT-2 - wikipedia](https://en.wikipedia.org/wiki/GPT-2)
-- [Named Entity Recognition (NER) - wikipedia](https://en.wikipedia.org/wiki/Named-entity_recognition)
-- [spaCy English](https://spacy.io/models/en)
 
-Research articles
-- [Attention is all you need - Vaswani et. al. (2017)](https://arxiv.org/pdf/1706.03762.pdf)
-- [BERT: Bidirectional Encoder Representation from Transformers - Devlin et. al. (2019)](https://arxiv.org/pdf/1810.04805.pdf)
-- [GPT-2 paper - Radford et. al. (2018)](https://d4mucfpksywv.cloudfront.net/better-language-models/)
+- [RNN - wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+- [LSTM - wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory)
+- [LSTM - Colah (2015) blog post](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Time series forecasting - Brownlee (2016) machinelearningmastery](https://machinelearningmastery.com/time-series-forecasting/)
+- [TimeSeriesGenerator - Brownlee (2016) machinelearningmastery](https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/)
+- [TimeSeriesGenerator keras - TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/sequence/TimeseriesGenerator?version=nightly) 
+
+NLP
+- [Natural language processing - wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
+- [Tokenization - wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization)
+- [Lemmatization - wikipedia](https://en.wikipedia.org/wiki/Lemmatisation)
+- [word2vec - wikipedia](https://en.wikipedia.org/wiki/Word2vec)
+- [Text corpus - wikipedia](https://en.wikipedia.org/wiki/Text_corpus)
+- [Word embeddings - wikipedia](https://en.wikipedia.org/wiki/Word_embedding)
+- [N-grams - wikipedia](https://en.wikipedia.org/wiki/N-gram)
+- [Huffman coding - wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
+- [word2vec skip gram model - McCormick (2016) blog post](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [Encoder-decoder - Nechu (2020) towardsdatascience blog post](https://towardsdatascience.com/what-is-an-encoder-decoder-model-86b3d57c5e1a)
+
+Research articles 
+- [Understanding LSTM - Staudemeyer, Morris (2019)](https://arxiv.org/pdf/1909.09586.pdf)
+- [word2vec - Mikolov et. al. (2013)](https://arxiv.org/pdf/1301.3781.pdf)
+- [word2vec parameter learning explained - Rong (2016)](https://arxiv.org/pdf/1411.2738.pdf)
+- [Google neural machine translation - Wu et. al (2016)](https://arxiv.org/pdf/1609.08144.pdf)
+- [Neural machine translation by jointly learning to align and translate - Bahdanau (2016)](https://arxiv.org/pdf/1409.0473.pdf)
 
 ## Exercises :running:
-Work with the project
+
+Work with lab, start with project
